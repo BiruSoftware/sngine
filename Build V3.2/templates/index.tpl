@@ -424,7 +424,6 @@
 <!-- page content -->
 <!-- footer links -->
 
-
 {include file='_footer.links.tpl'}
 
 {include file='_footer.tpl'}
